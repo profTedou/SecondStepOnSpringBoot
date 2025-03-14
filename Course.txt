@@ -1,0 +1,12 @@
+Cours 1:
+
+On iniatise le projet avec SpringInitialzer sur g-chrome en definissant le type de projet ainsi que les les différentes dependances
+dont une pour le web, une pour l'acces a la base de données et une autre pour la base elle même
+On genère le tout et on copie dans notre projet
+On vient de poser ainsi les bases de notre projet qui serviront de config de base
+
+Ensuite on a try de faire un premier run et pour ca on a lancé un "set JAVA-HOME:"URL Java-21" suivi de \.mvnw spring-boot:run
+depuis l'invite de commande en se placant sur l'url de notre dossier d'app
+
+Et enfin on a modifier les ressources statiques en ajoutant un fichier html pour observer une page dans l'url localhost:8080 où a chargé
+notre serveur TomCat
